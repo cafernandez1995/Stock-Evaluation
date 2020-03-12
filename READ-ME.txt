@@ -1,0 +1,4 @@
+The .csv files added here are copies of the .xlsx files of the same name.
+Data analysis was run in RStudio and can be opened/run in either R or RStudio, both of which are free to download.
+The R files can also be read using a text opening software (Notepad) and unserstood with the comments, which are lines beginning with an "#".
+Summary statistics were manually exported into .txt files so they could be viewed without the use of R/RStudio.

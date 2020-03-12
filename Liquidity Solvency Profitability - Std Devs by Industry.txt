@@ -1,0 +1,1296 @@
+> avg_prices_i
+                                                Industry Std Dev of Price
+1                                    Aerospace & Defense       132.507237
+2                                Air Freight & Logistics        37.631452
+3                                               Airlines        26.901391
+4                                        Auto Components        28.786668
+5                                            Automobiles       263.489920
+6                                                  Banks        31.473157
+7                                              Beverages        85.087722
+8                                          Biotechnology        53.586358
+9                                      Building Products        46.746022
+10                                       Capital Markets        95.717250
+11                                             Chemicals        99.428831
+12                        Commercial Services & Supplies        53.834671
+13                              Communications Equipment        48.427839
+14                            Construction & Engineering        29.303181
+15                                Construction Materials        88.921023
+16                                      Consumer Finance        81.600947
+17                                Containers & Packaging        33.277801
+18                                          Distributors        60.506994
+19                         Diversified Consumer Services        81.189837
+20                        Diversified Financial Services        66.556677
+21                Diversified Telecommunication Services        27.990722
+22                                    Electric Utilities        50.965301
+23                                  Electrical Equipment        46.086520
+24        Electronic Equipment, Instruments & Components        44.153103
+25                           Energy Equipment & Services         9.417761
+26                                         Entertainment        94.878121
+27          Equity Real Estate Investment Trusts (REITs)        83.280825
+28                              Food & Staples Retailing        81.613723
+29                                         Food Products       379.993046
+30                                         Gas Utilities        31.502124
+31                      Health Care Equipment & Supplies       105.822712
+32                      Health Care Providers & Services        88.586906
+33                                Health Care Technology        36.056605
+34                         Hotels, Restaurants & Leisure        99.713311
+35                                    Household Durables       642.878094
+36                                    Household Products        56.304451
+37 Independent Power and Renewable Electricity Producers        17.084396
+38                              Industrial Conglomerates       114.083441
+39                                             Insurance       148.587878
+40                          Interactive Media & Services       396.906605
+41                    Internet & Direct Marketing Retail       536.911378
+42                                           IT Services        70.745087
+43                                      Leisure Products        26.408548
+44                        Life Sciences Tools & Services       160.059329
+45                                             Machinery        49.022530
+46                                                Marine        15.130793
+47                                                 Media       177.441063
+48                                       Metals & Mining        28.561645
+49        Mortgage Real Estate Investment Trusts (REITs)         6.684901
+50                                       Multi-Utilities        34.271414
+51                                      Multiline Retail        47.601910
+52                           Oil, Gas & Consumable Fuels        25.917732
+53                               Paper & Forest Products        28.664285
+54                                     Personal Products        48.197876
+55                                       Pharmaceuticals        41.020666
+56                                 Professional Services       102.011028
+57                  Real Estate Management & Development        31.104089
+58                                           Road & Rail        70.754901
+59              Semiconductors & Semiconductor Equipment        70.757361
+60                                              Software        80.650163
+61                                      Specialty Retail       146.992355
+62            Technology Hardware, Storage & Peripherals        82.885306
+63                      Textiles, Apparel & Luxury Goods        50.898819
+64                            Thrifts & Mortgage Finance        21.175544
+65                                               Tobacco        32.585960
+66                      Trading Companies & Distributors        59.757902
+67                         Transportation Infrastructure        26.953802
+68                                         Uncategorized         4.070976
+69                                       Water Utilities        40.890747
+70                   Wireless Telecommunication Services        32.589653
+> avg_roiclf_i
+                                                Industry Std Dev of ROIC LF
+1                                    Aerospace & Defense          52.078736
+2                                Air Freight & Logistics           9.953774
+3                                               Airlines           2.890689
+4                                        Auto Components          23.360887
+5                                            Automobiles          52.599001
+6                                                  Banks           3.150152
+7                                              Beverages          50.327107
+8                                          Biotechnology         186.194124
+9                                      Building Products          14.666301
+10                                       Capital Markets          66.593365
+11                                             Chemicals          16.755907
+12                        Commercial Services & Supplies          14.524588
+13                              Communications Equipment          25.889938
+14                            Construction & Engineering          10.382997
+15                                Construction Materials           6.063689
+16                                      Consumer Finance          10.590265
+17                                Containers & Packaging          11.998154
+18                                          Distributors           8.211579
+19                         Diversified Consumer Services          75.829111
+20                        Diversified Financial Services          12.887372
+21                Diversified Telecommunication Services          14.373213
+22                                    Electric Utilities          17.752155
+23                                  Electrical Equipment          41.538253
+24        Electronic Equipment, Instruments & Components         103.227903
+25                           Energy Equipment & Services         242.811741
+26                                         Entertainment          33.737186
+27          Equity Real Estate Investment Trusts (REITs)           3.476593
+28                              Food & Staples Retailing          14.046464
+29                                         Food Products         139.593571
+30                                         Gas Utilities           1.080014
+31                      Health Care Equipment & Supplies         191.130234
+32                      Health Care Providers & Services          38.260963
+33                                Health Care Technology          28.883681
+34                         Hotels, Restaurants & Leisure          15.481855
+35                                    Household Durables          23.766159
+36                                    Household Products          11.851568
+37 Independent Power and Renewable Electricity Producers           5.198938
+38                              Industrial Conglomerates           7.275962
+39                                             Insurance          12.793431
+40                          Interactive Media & Services          43.931111
+41                    Internet & Direct Marketing Retail          87.476196
+42                                           IT Services          41.043649
+43                                      Leisure Products          17.359905
+44                        Life Sciences Tools & Services          42.417625
+45                                             Machinery          12.250986
+46                                                Marine          14.101084
+47                                                 Media          14.842526
+48                                       Metals & Mining          33.023771
+49        Mortgage Real Estate Investment Trusts (REITs)           2.423665
+50                                       Multi-Utilities           1.173013
+51                                      Multiline Retail           5.275258
+52                           Oil, Gas & Consumable Fuels          23.534215
+53                               Paper & Forest Products           4.364037
+54                                     Personal Products          41.775293
+55                                       Pharmaceuticals         148.546005
+56                                 Professional Services          19.587312
+57                  Real Estate Management & Development          15.166152
+58                                           Road & Rail          26.798097
+59              Semiconductors & Semiconductor Equipment          20.699938
+60                                              Software          55.328737
+61                                      Specialty Retail          20.333873
+62            Technology Hardware, Storage & Peripherals          42.842750
+63                      Textiles, Apparel & Luxury Goods          15.817453
+64                            Thrifts & Mortgage Finance           4.221249
+65                                               Tobacco          23.427264
+66                      Trading Companies & Distributors           7.927301
+67                         Transportation Infrastructure          23.131023
+68                                         Uncategorized           8.524471
+69                                       Water Utilities           7.911459
+70                   Wireless Telecommunication Services           4.436383
+> avg_roelf_i
+                                                Industry Std Dev of ROE LF
+1                                    Aerospace & Defense        100.853589
+2                                Air Freight & Logistics         43.114373
+3                                               Airlines          7.031454
+4                                        Auto Components         22.005151
+5                                            Automobiles         90.300722
+6                                                  Banks          4.294359
+7                                              Beverages         78.565080
+8                                          Biotechnology        125.651154
+9                                      Building Products         24.156385
+10                                       Capital Markets         67.767119
+11                                             Chemicals         33.984511
+12                        Commercial Services & Supplies         27.916338
+13                              Communications Equipment         33.995301
+14                            Construction & Engineering         17.204401
+15                                Construction Materials         25.256100
+16                                      Consumer Finance         47.967322
+17                                Containers & Packaging         18.510323
+18                                          Distributors         20.818437
+19                         Diversified Consumer Services         52.104360
+20                        Diversified Financial Services         20.633815
+21                Diversified Telecommunication Services         25.894797
+22                                    Electric Utilities         14.857564
+23                                  Electrical Equipment         61.990303
+24        Electronic Equipment, Instruments & Components         34.794766
+25                           Energy Equipment & Services         31.456569
+26                                         Entertainment         36.579219
+27          Equity Real Estate Investment Trusts (REITs)         19.716101
+28                              Food & Staples Retailing         27.748444
+29                                         Food Products         33.610135
+30                                         Gas Utilities          2.182895
+31                      Health Care Equipment & Supplies         96.314728
+32                      Health Care Providers & Services         43.264485
+33                                Health Care Technology         50.259019
+34                         Hotels, Restaurants & Leisure         37.711500
+35                                    Household Durables         31.962375
+36                                    Household Products         41.296793
+37 Independent Power and Renewable Electricity Producers         14.533096
+38                              Industrial Conglomerates         23.942152
+39                                             Insurance         26.684336
+40                          Interactive Media & Services         67.293886
+41                    Internet & Direct Marketing Retail         55.783419
+42                                           IT Services         70.925872
+43                                      Leisure Products         59.313053
+44                        Life Sciences Tools & Services         53.548635
+45                                             Machinery         21.590083
+46                                                Marine         19.041068
+47                                                 Media         34.508990
+48                                       Metals & Mining         39.375898
+49        Mortgage Real Estate Investment Trusts (REITs)         13.602490
+50                                       Multi-Utilities          2.374669
+51                                      Multiline Retail         18.710309
+52                           Oil, Gas & Consumable Fuels         28.102026
+53                               Paper & Forest Products          6.814320
+54                                     Personal Products         53.382059
+55                                       Pharmaceuticals        174.308882
+56                                 Professional Services         56.120781
+57                  Real Estate Management & Development         31.177570
+58                                           Road & Rail         85.056500
+59              Semiconductors & Semiconductor Equipment         32.659076
+60                                              Software         78.439974
+61                                      Specialty Retail         75.984103
+62            Technology Hardware, Storage & Peripherals         54.847104
+63                      Textiles, Apparel & Luxury Goods         31.078266
+64                            Thrifts & Mortgage Finance         17.828488
+65                                               Tobacco         33.887030
+66                      Trading Companies & Distributors         14.675148
+67                         Transportation Infrastructure         32.873863
+68                                         Uncategorized         66.569332
+69                                       Water Utilities          4.876969
+70                   Wireless Telecommunication Services         10.569913
+> avg_fcfm_i
+                                                Industry Std Dev of Free Cash Flow Margin
+1                                    Aerospace & Defense                       896.333400
+2                                Air Freight & Logistics                         3.141574
+3                                               Airlines                         4.968985
+4                                        Auto Components                       463.497916
+5                                            Automobiles                      4203.208977
+6                                                  Banks                        21.993629
+7                                              Beverages                        51.515255
+8                                          Biotechnology                     12755.957000
+9                                      Building Products                         5.668106
+10                                       Capital Markets                        72.446274
+11                                             Chemicals                        82.716667
+12                        Commercial Services & Supplies                        86.199320
+13                              Communications Equipment                       431.734816
+14                            Construction & Engineering                        38.481600
+15                                Construction Materials                         9.584194
+16                                      Consumer Finance                        49.321291
+17                                Containers & Packaging                         2.615217
+18                                          Distributors                         5.427796
+19                         Diversified Consumer Services                        35.321976
+20                        Diversified Financial Services                        57.439061
+21                Diversified Telecommunication Services                        64.966500
+22                                    Electric Utilities                        12.543875
+23                                  Electrical Equipment                       950.891825
+24        Electronic Equipment, Instruments & Components                      1104.859564
+25                           Energy Equipment & Services                        19.195698
+26                                         Entertainment                       143.433478
+27          Equity Real Estate Investment Trusts (REITs)                        99.460484
+28                              Food & Staples Retailing                        99.009481
+29                                         Food Products                       125.489934
+30                                         Gas Utilities                         9.218014
+31                      Health Care Equipment & Supplies                      9159.095744
+32                      Health Care Providers & Services                        39.552540
+33                                Health Care Technology                       409.207494
+34                         Hotels, Restaurants & Leisure                        27.241129
+35                                    Household Durables                        36.068964
+36                                    Household Products                         6.618454
+37 Independent Power and Renewable Electricity Producers                       125.472868
+38                              Industrial Conglomerates                         7.975771
+39                                             Insurance                        39.511624
+40                          Interactive Media & Services                       142.199780
+41                    Internet & Direct Marketing Retail                       123.987530
+42                                           IT Services                        80.879541
+43                                      Leisure Products                         8.367617
+44                        Life Sciences Tools & Services                      3389.195627
+45                                             Machinery                         9.902054
+46                                                Marine                        38.345935
+47                                                 Media                        54.092285
+48                                       Metals & Mining                      1290.160945
+49        Mortgage Real Estate Investment Trusts (REITs)                       229.292627
+50                                       Multi-Utilities                         6.141499
+51                                      Multiline Retail                         1.652546
+52                           Oil, Gas & Consumable Fuels                       100.966244
+53                               Paper & Forest Products                         8.787591
+54                                     Personal Products                       184.605110
+55                                       Pharmaceuticals                     19611.576802
+56                                 Professional Services                      4521.020912
+57                  Real Estate Management & Development                        63.465286
+58                                           Road & Rail                        31.151804
+59              Semiconductors & Semiconductor Equipment                       329.944293
+60                                              Software                      2435.784701
+61                                      Specialty Retail                        46.210254
+62            Technology Hardware, Storage & Peripherals                        48.466135
+63                      Textiles, Apparel & Luxury Goods                        26.268745
+64                            Thrifts & Mortgage Finance                       167.314868
+65                                               Tobacco                        34.401286
+66                      Trading Companies & Distributors                        35.634208
+67                         Transportation Infrastructure                        26.059646
+68                                         Uncategorized                       617.444181
+69                                       Water Utilities                       902.601222
+70                   Wireless Telecommunication Services                        11.282347
+> avg_t12emlf_i
+                                                Industry Std Dev of T12M EBITDA Mrgn LF
+1                                    Aerospace & Defense                   4.408347e+02
+2                                Air Freight & Logistics                   6.974045e+00
+3                                               Airlines                   6.138768e+00
+4                                        Auto Components                   1.223309e+03
+5                                            Automobiles                   8.360349e+03
+6                                                  Banks                   8.785262e+00
+7                                              Beverages                   2.597762e+01
+8                                          Biotechnology                   1.746752e+04
+9                                      Building Products                   1.003635e+01
+10                                       Capital Markets                   2.479396e+01
+11                                             Chemicals                   5.219037e+01
+12                        Commercial Services & Supplies                   9.736117e+01
+13                              Communications Equipment                   5.512333e+02
+14                            Construction & Engineering                   9.193998e+00
+15                                Construction Materials                   1.197668e+01
+16                                      Consumer Finance                   3.447517e+01
+17                                Containers & Packaging                   2.537114e+00
+18                                          Distributors                   5.397868e+00
+19                         Diversified Consumer Services                   2.220837e+01
+20                        Diversified Financial Services                   3.443262e+01
+21                Diversified Telecommunication Services                   2.149755e+02
+22                                    Electric Utilities                   1.406998e+01
+23                                  Electrical Equipment                   2.703033e+03
+24        Electronic Equipment, Instruments & Components                   5.181115e+02
+25                           Energy Equipment & Services                   2.453115e+01
+26                                         Entertainment                   2.035745e+02
+27          Equity Real Estate Investment Trusts (REITs)                   1.899499e+01
+28                              Food & Staples Retailing                   3.815490e+01
+29                                         Food Products                   1.838730e+02
+30                                         Gas Utilities                   1.045308e+01
+31                      Health Care Equipment & Supplies                   3.929283e+03
+32                      Health Care Providers & Services                   1.548399e+02
+33                                Health Care Technology                   2.480887e+01
+34                         Hotels, Restaurants & Leisure                   1.607629e+01
+35                                    Household Durables                   3.728491e+01
+36                                    Household Products                   6.974681e+00
+37 Independent Power and Renewable Electricity Producers                   2.335558e+01
+38                              Industrial Conglomerates                   1.224897e+01
+39                                             Insurance                   1.189091e+01
+40                          Interactive Media & Services                   2.669138e+01
+41                    Internet & Direct Marketing Retail                   3.733019e+01
+42                                           IT Services                   5.247968e+01
+43                                      Leisure Products                   9.326541e+00
+44                        Life Sciences Tools & Services                   1.098277e+04
+45                                             Machinery                   1.326590e+01
+46                                                Marine                   3.754691e+01
+47                                                 Media                   6.214804e+01
+48                                       Metals & Mining                   1.852323e+01
+49        Mortgage Real Estate Investment Trusts (REITs)                   3.951514e+01
+50                                       Multi-Utilities                   6.838045e+00
+51                                      Multiline Retail                   2.986678e+00
+52                           Oil, Gas & Consumable Fuels                   1.012313e+02
+53                               Paper & Forest Products                   6.488320e+00
+54                                     Personal Products                   1.813646e+02
+55                                       Pharmaceuticals                   1.270037e+05
+56                                 Professional Services                   1.530714e+01
+57                  Real Estate Management & Development                   4.465961e+01
+58                                           Road & Rail                   2.795400e+01
+59              Semiconductors & Semiconductor Equipment                   2.241044e+02
+60                                              Software                   1.706606e+03
+61                                      Specialty Retail                   3.020575e+01
+62            Technology Hardware, Storage & Peripherals                   2.019621e+01
+63                      Textiles, Apparel & Luxury Goods                   1.758411e+01
+64                            Thrifts & Mortgage Finance                   1.116593e+01
+65                                               Tobacco                   4.266524e+01
+66                      Trading Companies & Distributors                   2.462899e+01
+67                         Transportation Infrastructure                   4.038261e+01
+68                                         Uncategorized                   1.332682e+01
+69                                       Water Utilities                   7.867684e+02
+70                   Wireless Telecommunication Services                   1.213049e+01
+> avg_nm5alf_i
+                                                Industry Std Dev of Net Mrgn 5Yr Avg LF
+1                                    Aerospace & Defense                     329.690612
+2                                Air Freight & Logistics                       2.871239
+3                                               Airlines                       2.759412
+4                                        Auto Components                   35309.168114
+5                                            Automobiles                   18896.514146
+6                                                  Banks                       8.463604
+7                                              Beverages                      29.380670
+8                                          Biotechnology                   25105.653104
+9                                      Building Products                      15.319060
+10                                       Capital Markets                      39.001801
+11                                             Chemicals                     126.359135
+12                        Commercial Services & Supplies                     146.201507
+13                              Communications Equipment                      17.431524
+14                            Construction & Engineering                       4.157950
+15                                Construction Materials                      10.715200
+16                                      Consumer Finance                      10.038026
+17                                Containers & Packaging                       3.133479
+18                                          Distributors                       2.174927
+19                         Diversified Consumer Services                      26.865880
+20                        Diversified Financial Services                      28.455767
+21                Diversified Telecommunication Services                     263.647846
+22                                    Electric Utilities                      14.059620
+23                                  Electrical Equipment                    2867.275259
+24        Electronic Equipment, Instruments & Components                     470.970369
+25                           Energy Equipment & Services                      94.661763
+26                                         Entertainment                     110.516606
+27          Equity Real Estate Investment Trusts (REITs)                      32.595536
+28                              Food & Staples Retailing                      29.975123
+29                                         Food Products                     198.646807
+30                                         Gas Utilities                       5.662922
+31                      Health Care Equipment & Supplies                    1249.087243
+32                      Health Care Providers & Services                     116.801499
+33                                Health Care Technology                      30.144696
+34                         Hotels, Restaurants & Leisure                      14.590699
+35                                    Household Durables                      42.571662
+36                                    Household Products                       4.371205
+37 Independent Power and Renewable Electricity Producers                       7.557086
+38                              Industrial Conglomerates                      11.201553
+39                                             Insurance                      67.530487
+40                          Interactive Media & Services                      37.296605
+41                    Internet & Direct Marketing Retail                     242.105585
+42                                           IT Services                      54.060835
+43                                      Leisure Products                      96.385773
+44                        Life Sciences Tools & Services                   15899.707454
+45                                             Machinery                      20.936961
+46                                                Marine                      27.264092
+47                                                 Media                     135.805748
+48                                       Metals & Mining                      13.360196
+49        Mortgage Real Estate Investment Trusts (REITs)                      56.707086
+50                                       Multi-Utilities                       4.406479
+51                                      Multiline Retail                       4.280005
+52                           Oil, Gas & Consumable Fuels                     140.975245
+53                               Paper & Forest Products                       5.613596
+54                                     Personal Products                     212.815827
+55                                       Pharmaceuticals                    1345.505606
+56                                 Professional Services                      30.942592
+57                  Real Estate Management & Development                      47.925186
+58                                           Road & Rail                      69.314014
+59              Semiconductors & Semiconductor Equipment                     260.427046
+60                                              Software                    4153.856690
+61                                      Specialty Retail                      30.859811
+62            Technology Hardware, Storage & Peripherals                      34.806686
+63                      Textiles, Apparel & Luxury Goods                      35.232314
+64                            Thrifts & Mortgage Finance                      62.066217
+65                                               Tobacco                      28.045535
+66                      Trading Companies & Distributors                       7.254765
+67                         Transportation Infrastructure                      44.809787
+68                                         Uncategorized                             NA
+69                                       Water Utilities                    1652.436796
+70                   Wireless Telecommunication Services                       7.839527
+> avg_opmlf_i
+                                                Industry Std Dev of OPM LF
+1                                    Aerospace & Defense        185.079938
+2                                Air Freight & Logistics         23.893902
+3                                               Airlines          4.096218
+4                                        Auto Components      21666.724053
+5                                            Automobiles       3177.425425
+6                                                  Banks         11.738668
+7                                              Beverages         25.584629
+8                                          Biotechnology      57833.658888
+9                                      Building Products         13.991246
+10                                       Capital Markets         26.289668
+11                                             Chemicals         34.463747
+12                        Commercial Services & Supplies         80.422140
+13                              Communications Equipment        561.590387
+14                            Construction & Engineering          5.930096
+15                                Construction Materials         16.952360
+16                                      Consumer Finance         30.969463
+17                                Containers & Packaging          3.098949
+18                                          Distributors          4.047161
+19                         Diversified Consumer Services        236.341863
+20                        Diversified Financial Services         33.770115
+21                Diversified Telecommunication Services        437.117074
+22                                    Electric Utilities         17.184976
+23                                  Electrical Equipment       2965.423898
+24        Electronic Equipment, Instruments & Components        235.269046
+25                           Energy Equipment & Services         34.686309
+26                                         Entertainment        539.312020
+27          Equity Real Estate Investment Trusts (REITs)         24.839015
+28                              Food & Staples Retailing         32.624225
+29                                         Food Products        187.755373
+30                                         Gas Utilities          7.687008
+31                      Health Care Equipment & Supplies       3770.886026
+32                      Health Care Providers & Services        146.002830
+33                                Health Care Technology         25.146561
+34                         Hotels, Restaurants & Leisure         20.032254
+35                                    Household Durables         57.771763
+36                                    Household Products          8.957426
+37 Independent Power and Renewable Electricity Producers         25.540463
+38                              Industrial Conglomerates          8.897251
+39                                             Insurance         75.857435
+40                          Interactive Media & Services        170.259134
+41                    Internet & Direct Marketing Retail        256.554822
+42                                           IT Services         40.525988
+43                                      Leisure Products         18.144752
+44                        Life Sciences Tools & Services      65723.393460
+45                                             Machinery         61.843220
+46                                                Marine         34.910262
+47                                                 Media         67.398791
+48                                       Metals & Mining        680.498966
+49        Mortgage Real Estate Investment Trusts (REITs)         22.078045
+50                                       Multi-Utilities          8.454424
+51                                      Multiline Retail          2.195490
+52                           Oil, Gas & Consumable Fuels        307.591663
+53                               Paper & Forest Products         10.963315
+54                                     Personal Products        301.144832
+55                                       Pharmaceuticals       9695.288954
+56                                 Professional Services       4811.165414
+57                  Real Estate Management & Development         54.982618
+58                                           Road & Rail         26.471101
+59              Semiconductors & Semiconductor Equipment        197.893730
+60                                              Software       8153.618972
+61                                      Specialty Retail         35.360089
+62            Technology Hardware, Storage & Peripherals         26.139896
+63                      Textiles, Apparel & Luxury Goods         22.284953
+64                            Thrifts & Mortgage Finance        270.992503
+65                                               Tobacco         51.924457
+66                      Trading Companies & Distributors         15.214314
+67                         Transportation Infrastructure         34.068418
+68                                         Uncategorized       2973.194088
+69                                       Water Utilities        677.537055
+70                   Wireless Telecommunication Services         12.174504
+> avg_gmlf_i
+                                                Industry Std Dev of GM LF
+1                                    Aerospace & Defense        15.353412
+2                                Air Freight & Logistics        13.129448
+3                                               Airlines               NA
+4                                        Auto Components      5484.553790
+5                                            Automobiles        32.711678
+6                                                  Banks               NA
+7                                              Beverages        12.034602
+8                                          Biotechnology        37.804458
+9                                      Building Products        14.594910
+10                                       Capital Markets        22.857275
+11                                             Chemicals        13.996122
+12                        Commercial Services & Supplies        38.283335
+13                              Communications Equipment        16.905637
+14                            Construction & Engineering        11.169025
+15                                Construction Materials         7.781546
+16                                      Consumer Finance        19.021032
+17                                Containers & Packaging         6.927150
+18                                          Distributors        16.096475
+19                         Diversified Consumer Services        29.953205
+20                        Diversified Financial Services        33.797660
+21                Diversified Telecommunication Services        27.061484
+22                                    Electric Utilities        13.488444
+23                                  Electrical Equipment        37.881593
+24        Electronic Equipment, Instruments & Components        55.386740
+25                           Energy Equipment & Services        20.711021
+26                                         Entertainment        43.575156
+27          Equity Real Estate Investment Trusts (REITs)        26.050860
+28                              Food & Staples Retailing        10.964561
+29                                         Food Products        15.861389
+30                                         Gas Utilities        14.852110
+31                      Health Care Equipment & Supplies        25.744404
+32                      Health Care Providers & Services        19.633110
+33                                Health Care Technology        14.488976
+34                         Hotels, Restaurants & Leisure        24.789912
+35                                    Household Durables        14.445408
+36                                    Household Products        10.863925
+37 Independent Power and Renewable Electricity Producers        26.488226
+38                              Industrial Conglomerates        15.700897
+39                                             Insurance        36.936686
+40                          Interactive Media & Services        23.436785
+41                    Internet & Direct Marketing Retail        23.215633
+42                                           IT Services        20.035860
+43                                      Leisure Products        13.735117
+44                        Life Sciences Tools & Services      4834.161791
+45                                             Machinery        17.258265
+46                                                Marine        17.377742
+47                                                 Media        18.239335
+48                                       Metals & Mining        18.904072
+49        Mortgage Real Estate Investment Trusts (REITs)               NA
+50                                       Multi-Utilities        10.623344
+51                                      Multiline Retail         4.428916
+52                           Oil, Gas & Consumable Fuels        25.200458
+53                               Paper & Forest Products         9.609212
+54                                     Personal Products        20.449247
+55                                       Pharmaceuticals        55.309875
+56                                 Professional Services        21.543154
+57                  Real Estate Management & Development        26.571714
+58                                           Road & Rail        17.653942
+59              Semiconductors & Semiconductor Equipment        17.861629
+60                                              Software        16.959215
+61                                      Specialty Retail        15.770367
+62            Technology Hardware, Storage & Peripherals        20.021267
+63                      Textiles, Apparel & Luxury Goods        16.316197
+64                            Thrifts & Mortgage Finance               NA
+65                                               Tobacco        26.507367
+66                      Trading Companies & Distributors        19.675816
+67                         Transportation Infrastructure         5.621861
+68                                         Uncategorized        22.944649
+69                                       Water Utilities        22.849935
+70                   Wireless Telecommunication Services        16.722307
+> avg_icr_i
+                                                Industry Std Dev of Interest Coverage Ratio
+1                                    Aerospace & Defense                            0.00000
+2                                Air Freight & Logistics                            0.00000
+3                                               Airlines                            0.00000
+4                                        Auto Components                            0.00000
+5                                            Automobiles                            0.00000
+6                                                  Banks                            0.00000
+7                                              Beverages                            0.00000
+8                                          Biotechnology                            0.00000
+9                                      Building Products                            0.00000
+10                                       Capital Markets                            0.00000
+11                                             Chemicals                            0.00000
+12                        Commercial Services & Supplies                            0.00000
+13                              Communications Equipment                            0.00000
+14                            Construction & Engineering                            0.00000
+15                                Construction Materials                            0.00000
+16                                      Consumer Finance                            0.00000
+17                                Containers & Packaging                            0.00000
+18                                          Distributors                            0.00000
+19                         Diversified Consumer Services                            0.00000
+20                        Diversified Financial Services                            0.00000
+21                Diversified Telecommunication Services                            0.00000
+22                                    Electric Utilities                            0.00000
+23                                  Electrical Equipment                            0.00000
+24        Electronic Equipment, Instruments & Components                            0.00000
+25                           Energy Equipment & Services                            0.00000
+26                                         Entertainment                            0.00000
+27          Equity Real Estate Investment Trusts (REITs)                           44.91732
+28                              Food & Staples Retailing                            0.00000
+29                                         Food Products                            0.00000
+30                                         Gas Utilities                            0.00000
+31                      Health Care Equipment & Supplies                            0.00000
+32                      Health Care Providers & Services                            0.00000
+33                                Health Care Technology                            0.00000
+34                         Hotels, Restaurants & Leisure                            0.00000
+35                                    Household Durables                            0.00000
+36                                    Household Products                            0.00000
+37 Independent Power and Renewable Electricity Producers                            0.00000
+38                              Industrial Conglomerates                            0.00000
+39                                             Insurance                            0.00000
+40                          Interactive Media & Services                            0.00000
+41                    Internet & Direct Marketing Retail                            0.00000
+42                                           IT Services                            0.00000
+43                                      Leisure Products                            0.00000
+44                        Life Sciences Tools & Services                            0.00000
+45                                             Machinery                            0.00000
+46                                                Marine                            0.00000
+47                                                 Media                            0.00000
+48                                       Metals & Mining                            0.00000
+49        Mortgage Real Estate Investment Trusts (REITs)                            0.00000
+50                                       Multi-Utilities                            0.00000
+51                                      Multiline Retail                            0.00000
+52                           Oil, Gas & Consumable Fuels                            0.00000
+53                               Paper & Forest Products                            0.00000
+54                                     Personal Products                            0.00000
+55                                       Pharmaceuticals                            0.00000
+56                                 Professional Services                            0.00000
+57                  Real Estate Management & Development                            0.00000
+58                                           Road & Rail                            0.00000
+59              Semiconductors & Semiconductor Equipment                            0.00000
+60                                              Software                            0.00000
+61                                      Specialty Retail                            0.00000
+62            Technology Hardware, Storage & Peripherals                            0.00000
+63                      Textiles, Apparel & Luxury Goods                            0.00000
+64                            Thrifts & Mortgage Finance                            0.00000
+65                                               Tobacco                            0.00000
+66                      Trading Companies & Distributors                            0.00000
+67                         Transportation Infrastructure                            0.00000
+68                                         Uncategorized                            0.00000
+69                                       Water Utilities                            0.00000
+70                   Wireless Telecommunication Services                            0.00000
+> avg_delf_i
+                                                Industry Std Dev of Debt/Equity LF
+1                                    Aerospace & Defense                 167.70169
+2                                Air Freight & Logistics                 252.91273
+3                                               Airlines                  53.84174
+4                                        Auto Components                  82.64729
+5                                            Automobiles                 173.53194
+6                                                  Banks                  54.73846
+7                                              Beverages                  85.74573
+8                                          Biotechnology                 442.75256
+9                                      Building Products                  90.95153
+10                                       Capital Markets                 192.96090
+11                                             Chemicals                 197.97713
+12                        Commercial Services & Supplies                 196.35283
+13                              Communications Equipment                 159.60194
+14                            Construction & Engineering                  64.97074
+15                                Construction Materials                 293.99975
+16                                      Consumer Finance                4675.50435
+17                                Containers & Packaging                 222.77628
+18                                          Distributors                  36.00022
+19                         Diversified Consumer Services                  97.71914
+20                        Diversified Financial Services                 197.14460
+21                Diversified Telecommunication Services                 155.63806
+22                                    Electric Utilities                  88.89593
+23                                  Electrical Equipment                 748.63375
+24        Electronic Equipment, Instruments & Components                  60.84625
+25                           Energy Equipment & Services                 233.17049
+26                                         Entertainment                 136.24812
+27          Equity Real Estate Investment Trusts (REITs)                 158.16045
+28                              Food & Staples Retailing                 128.18265
+29                                         Food Products                 195.94691
+30                                         Gas Utilities                  45.04682
+31                      Health Care Equipment & Supplies                 170.98053
+32                      Health Care Providers & Services                 184.47529
+33                                Health Care Technology                  81.78639
+34                         Hotels, Restaurants & Leisure                 424.97784
+35                                    Household Durables                 155.27134
+36                                    Household Products                1168.70406
+37 Independent Power and Renewable Electricity Producers                 115.44244
+38                              Industrial Conglomerates                 109.24953
+39                                             Insurance                  62.43878
+40                          Interactive Media & Services                  95.71355
+41                    Internet & Direct Marketing Retail                  93.42377
+42                                           IT Services                 225.82621
+43                                      Leisure Products                 934.28408
+44                        Life Sciences Tools & Services                  86.56739
+45                                             Machinery                  88.02940
+46                                                Marine                 150.68051
+47                                                 Media                 147.68745
+48                                       Metals & Mining                 135.50388
+49        Mortgage Real Estate Investment Trusts (REITs)                 304.95314
+50                                       Multi-Utilities                  43.46952
+51                                      Multiline Retail                 158.58154
+52                           Oil, Gas & Consumable Fuels                 231.28533
+53                               Paper & Forest Products                  72.38347
+54                                     Personal Products                  58.73858
+55                                       Pharmaceuticals                 498.25674
+56                                 Professional Services                1167.26437
+57                  Real Estate Management & Development                 100.13361
+58                                           Road & Rail                 544.72672
+59              Semiconductors & Semiconductor Equipment                 418.49898
+60                                              Software                 167.87214
+61                                      Specialty Retail                9346.58209
+62            Technology Hardware, Storage & Peripherals                 320.08477
+63                      Textiles, Apparel & Luxury Goods                 241.31649
+64                            Thrifts & Mortgage Finance                 366.97804
+65                                               Tobacco                 608.99854
+66                      Trading Companies & Distributors                 118.16887
+67                         Transportation Infrastructure                  52.27117
+68                                         Uncategorized                 801.68858
+69                                       Water Utilities                 104.04069
+70                   Wireless Telecommunication Services                  88.22848
+> avg_dalf_i
+                                                Industry Std Dev of Debt/Assets LF
+1                                    Aerospace & Defense                 20.983769
+2                                Air Freight & Logistics                 18.227665
+3                                               Airlines                 13.932904
+4                                        Auto Components                 14.581101
+5                                            Automobiles                 20.064720
+6                                                  Banks                  5.154064
+7                                              Beverages                 19.438739
+8                                          Biotechnology                 25.350939
+9                                      Building Products                 21.855754
+10                                       Capital Markets                 21.673186
+11                                             Chemicals                 27.131706
+12                        Commercial Services & Supplies                 77.441170
+13                              Communications Equipment                 21.057632
+14                            Construction & Engineering                 15.651057
+15                                Construction Materials                 18.586879
+16                                      Consumer Finance                 29.551864
+17                                Containers & Packaging                 15.644236
+18                                          Distributors                 11.634881
+19                         Diversified Consumer Services                 30.249047
+20                        Diversified Financial Services                 28.518607
+21                Diversified Telecommunication Services                 32.903298
+22                                    Electric Utilities                  8.983480
+23                                  Electrical Equipment                 23.109818
+24        Electronic Equipment, Instruments & Components                 13.724975
+25                           Energy Equipment & Services                 95.810447
+26                                         Entertainment                 23.410278
+27          Equity Real Estate Investment Trusts (REITs)                 18.376549
+28                              Food & Staples Retailing                 18.197480
+29                                         Food Products                 17.895997
+30                                         Gas Utilities                  7.143046
+31                      Health Care Equipment & Supplies                 24.577644
+32                      Health Care Providers & Services                 27.147217
+33                                Health Care Technology                 19.320893
+34                         Hotels, Restaurants & Leisure                 42.693088
+35                                    Household Durables                 17.707022
+36                                    Household Products                185.347833
+37 Independent Power and Renewable Electricity Producers                 13.258855
+38                              Industrial Conglomerates                 15.032856
+39                                             Insurance                 14.232504
+40                          Interactive Media & Services                 16.196166
+41                    Internet & Direct Marketing Retail                 22.891819
+42                                           IT Services                 23.146645
+43                                      Leisure Products                 18.900697
+44                        Life Sciences Tools & Services                 23.265571
+45                                             Machinery                 16.183266
+46                                                Marine                 13.433020
+47                                                 Media                 25.537490
+48                                       Metals & Mining                 15.673478
+49        Mortgage Real Estate Investment Trusts (REITs)                 22.314162
+50                                       Multi-Utilities                  4.691581
+51                                      Multiline Retail                 12.672717
+52                           Oil, Gas & Consumable Fuels                 23.317142
+53                               Paper & Forest Products                 15.116354
+54                                     Personal Products                 25.306060
+55                                       Pharmaceuticals                 61.946611
+56                                 Professional Services                 20.638104
+57                  Real Estate Management & Development                 27.074987
+58                                           Road & Rail                 22.674359
+59              Semiconductors & Semiconductor Equipment                 15.607349
+60                                              Software                 18.823841
+61                                      Specialty Retail                 19.554071
+62            Technology Hardware, Storage & Peripherals                 24.883373
+63                      Textiles, Apparel & Luxury Goods                 21.399405
+64                            Thrifts & Mortgage Finance                 18.686890
+65                                               Tobacco                 33.199140
+66                      Trading Companies & Distributors                 19.919361
+67                         Transportation Infrastructure                 21.103984
+68                                         Uncategorized                 23.407494
+69                                       Water Utilities                 48.364113
+70                   Wireless Telecommunication Services                 19.291339
+> avg_mwctlf_i
+                                                Industry Std Dev of Modified Working Capital Turnover LF
+1                                    Aerospace & Defense                                       16.604528
+2                                Air Freight & Logistics                                        6.957590
+3                                               Airlines                                       49.685254
+4                                        Auto Components                                        4.619286
+5                                            Automobiles                                        9.734745
+6                                                  Banks                                              NA
+7                                              Beverages                                       11.492089
+8                                          Biotechnology                                      125.245805
+9                                      Building Products                                        2.907084
+10                                       Capital Markets                                       18.850750
+11                                             Chemicals                                        3.030381
+12                        Commercial Services & Supplies                                        9.858446
+13                              Communications Equipment                                        3.268015
+14                            Construction & Engineering                                        8.813294
+15                                Construction Materials                                        2.211075
+16                                      Consumer Finance                                        4.442946
+17                                Containers & Packaging                                       15.972064
+18                                          Distributors                                        6.095790
+19                         Diversified Consumer Services                                       43.814847
+20                        Diversified Financial Services                                       19.832645
+21                Diversified Telecommunication Services                                       21.925686
+22                                    Electric Utilities                                        9.578297
+23                                  Electrical Equipment                                        3.449127
+24        Electronic Equipment, Instruments & Components                                        4.438192
+25                           Energy Equipment & Services                                       14.547381
+26                                         Entertainment                                       44.570055
+27          Equity Real Estate Investment Trusts (REITs)                                        8.010110
+28                              Food & Staples Retailing                                       49.414863
+29                                         Food Products                                       22.933370
+30                                         Gas Utilities                                       10.481431
+31                      Health Care Equipment & Supplies                                        2.824436
+32                      Health Care Providers & Services                                       50.110514
+33                                Health Care Technology                                        4.639316
+34                         Hotels, Restaurants & Leisure                                       70.697761
+35                                    Household Durables                                       20.950199
+36                                    Household Products                                       13.781476
+37 Independent Power and Renewable Electricity Producers                                        3.562216
+38                              Industrial Conglomerates                                        1.341501
+39                                             Insurance                                       43.237870
+40                          Interactive Media & Services                                       28.927613
+41                    Internet & Direct Marketing Retail                                      255.395976
+42                                           IT Services                                       27.874385
+43                                      Leisure Products                                        5.039509
+44                        Life Sciences Tools & Services                                        3.285477
+45                                             Machinery                                        3.239325
+46                                                Marine                                       25.790987
+47                                                 Media                                       22.608766
+48                                       Metals & Mining                                        4.381488
+49        Mortgage Real Estate Investment Trusts (REITs)                                              NA
+50                                       Multi-Utilities                                        3.397757
+51                                      Multiline Retail                                       89.206901
+52                           Oil, Gas & Consumable Fuels                                       42.351984
+53                               Paper & Forest Products                                        2.049018
+54                                     Personal Products                                        5.565294
+55                                       Pharmaceuticals                                        2.686690
+56                                 Professional Services                                        8.231226
+57                  Real Estate Management & Development                                       13.080703
+58                                           Road & Rail                                        9.150217
+59              Semiconductors & Semiconductor Equipment                                        2.610583
+60                                              Software                                       70.618624
+61                                      Specialty Retail                                       46.875346
+62            Technology Hardware, Storage & Peripherals                                        4.187968
+63                      Textiles, Apparel & Luxury Goods                                        2.593546
+64                            Thrifts & Mortgage Finance                                              NA
+65                                               Tobacco                                        8.081885
+66                      Trading Companies & Distributors                                        7.963741
+67                         Transportation Infrastructure                                       10.023901
+68                                         Uncategorized                                        3.964487
+69                                       Water Utilities                                        7.981809
+70                   Wireless Telecommunication Services                                       27.641148
+> avg_itlf_i
+                                                Industry Std Dev of Inv Turnover LF
+1                                    Aerospace & Defense                 24.4069911
+2                                Air Freight & Logistics                208.3078768
+3                                               Airlines                         NA
+4                                        Auto Components                  4.7764820
+5                                            Automobiles                  4.0705934
+6                                                  Banks                         NA
+7                                              Beverages                  3.7309768
+8                                          Biotechnology                  9.2385329
+9                                      Building Products                  2.6144138
+10                                       Capital Markets                 10.7272321
+11                                             Chemicals                  2.9741808
+12                        Commercial Services & Supplies                 29.0412674
+13                              Communications Equipment                  4.2853322
+14                            Construction & Engineering                192.1799665
+15                                Construction Materials                 26.0420528
+16                                      Consumer Finance                 18.3472426
+17                                Containers & Packaging                  1.5276924
+18                                          Distributors                  7.4829608
+19                         Diversified Consumer Services                235.3360926
+20                        Diversified Financial Services                 20.7031909
+21                Diversified Telecommunication Services                117.1948636
+22                                    Electric Utilities                 25.5220145
+23                                  Electrical Equipment                 31.2439451
+24        Electronic Equipment, Instruments & Components                 10.1561714
+25                           Energy Equipment & Services                 62.7138349
+26                                         Entertainment                 55.3795914
+27          Equity Real Estate Investment Trusts (REITs)                 10.0655619
+28                              Food & Staples Retailing                  5.5761175
+29                                         Food Products                  4.8566060
+30                                         Gas Utilities                  6.2130721
+31                      Health Care Equipment & Supplies                  6.0955599
+32                      Health Care Providers & Services                271.3600518
+33                                Health Care Technology                703.2835180
+34                         Hotels, Restaurants & Leisure                 72.4586258
+35                                    Household Durables                  2.9978764
+36                                    Household Products                  1.6135643
+37 Independent Power and Renewable Electricity Producers                  5.2313462
+38                              Industrial Conglomerates                  2.0105108
+39                                             Insurance                         NA
+40                          Interactive Media & Services                 33.7784590
+41                    Internet & Direct Marketing Retail                143.7044392
+42                                           IT Services                703.1661635
+43                                      Leisure Products                  4.1816912
+44                        Life Sciences Tools & Services                  7.3613561
+45                                             Machinery                  3.2471905
+46                                                Marine                 22.9997712
+47                                                 Media                 56.1758880
+48                                       Metals & Mining                  2.3937804
+49        Mortgage Real Estate Investment Trusts (REITs)                         NA
+50                                       Multi-Utilities                 54.7901763
+51                                      Multiline Retail                  1.1529614
+52                           Oil, Gas & Consumable Fuels                131.7887957
+53                               Paper & Forest Products                  0.9907685
+54                                     Personal Products                  1.6920410
+55                                       Pharmaceuticals                 31.9169385
+56                                 Professional Services                 42.9773280
+57                  Real Estate Management & Development                  6.5790727
+58                                           Road & Rail                164.0015175
+59              Semiconductors & Semiconductor Equipment                  2.7394707
+60                                              Software                 89.5236861
+61                                      Specialty Retail                  5.2205802
+62            Technology Hardware, Storage & Peripherals                 10.3329352
+63                      Textiles, Apparel & Luxury Goods                  7.1395160
+64                            Thrifts & Mortgage Finance                         NA
+65                                               Tobacco                  3.4121956
+66                      Trading Companies & Distributors                 10.5082196
+67                         Transportation Infrastructure                         NA
+68                                         Uncategorized                         NA
+69                                       Water Utilities                 11.2537821
+70                   Wireless Telecommunication Services                 15.8407753
+> avg_artlf_i
+                                                Industry Std Dev of A/R Trnovr LF
+1                                    Aerospace & Defense                 7.519368
+2                                Air Freight & Logistics                 2.160085
+3                                               Airlines                12.064692
+4                                        Auto Components                75.006646
+5                                            Automobiles                12.092171
+6                                                  Banks                       NA
+7                                              Beverages                 4.888777
+8                                          Biotechnology               323.020563
+9                                      Building Products                 5.183068
+10                                       Capital Markets                10.137549
+11                                             Chemicals                 3.570147
+12                        Commercial Services & Supplies                 5.188739
+13                              Communications Equipment                 3.285548
+14                            Construction & Engineering                 2.930061
+15                                Construction Materials                 3.410979
+16                                      Consumer Finance                33.708070
+17                                Containers & Packaging                 1.680610
+18                                          Distributors                15.511133
+19                         Diversified Consumer Services                49.575311
+20                        Diversified Financial Services                19.701314
+21                Diversified Telecommunication Services                 6.523623
+22                                    Electric Utilities                 4.845935
+23                                  Electrical Equipment                 3.691077
+24        Electronic Equipment, Instruments & Components                24.082715
+25                           Energy Equipment & Services                 2.432020
+26                                         Entertainment                10.880025
+27          Equity Real Estate Investment Trusts (REITs)                12.872600
+28                              Food & Staples Retailing                74.314117
+29                                         Food Products                 5.350431
+30                                         Gas Utilities                 1.878620
+31                      Health Care Equipment & Supplies                 2.792324
+32                      Health Care Providers & Services                11.376502
+33                                Health Care Technology                 2.475983
+34                         Hotels, Restaurants & Leisure                75.756574
+35                                    Household Durables                73.277057
+36                                    Household Products                 2.728690
+37 Independent Power and Renewable Electricity Producers                 2.790921
+38                              Industrial Conglomerates                 3.273120
+39                                             Insurance                67.167160
+40                          Interactive Media & Services                16.967002
+41                    Internet & Direct Marketing Retail               251.108407
+42                                           IT Services                36.887166
+43                                      Leisure Products                25.274752
+44                        Life Sciences Tools & Services                 1.772244
+45                                             Machinery                11.325251
+46                                                Marine                26.657514
+47                                                 Media                 5.739836
+48                                       Metals & Mining                21.366620
+49        Mortgage Real Estate Investment Trusts (REITs)                       NA
+50                                       Multi-Utilities                 1.689685
+51                                      Multiline Retail               355.719724
+52                           Oil, Gas & Consumable Fuels                18.808731
+53                               Paper & Forest Products                 6.187352
+54                                     Personal Products               232.763796
+55                                       Pharmaceuticals               182.213428
+56                                 Professional Services                75.322481
+57                  Real Estate Management & Development                25.947833
+58                                           Road & Rail                 2.648133
+59              Semiconductors & Semiconductor Equipment                 3.034535
+60                                              Software                16.643880
+61                                      Specialty Retail               286.428119
+62            Technology Hardware, Storage & Peripherals                 5.723668
+63                      Textiles, Apparel & Luxury Goods               651.529919
+64                            Thrifts & Mortgage Finance                       NA
+65                                               Tobacco                52.928382
+66                      Trading Companies & Distributors                 9.136809
+67                         Transportation Infrastructure                 7.277191
+68                                         Uncategorized                40.750948
+69                                       Water Utilities                 5.384466
+70                   Wireless Telecommunication Services                 7.684024
+> avg_ccclf_i
+                                                Industry Std Dev of Cash Conversion Cycle LF
+1                                    Aerospace & Defense                          202.889969
+2                                Air Freight & Logistics                           55.310253
+3                                               Airlines                                  NA
+4                                        Auto Components                           65.856271
+5                                            Automobiles                         4459.464253
+6                                                  Banks                                  NA
+7                                              Beverages                          151.695676
+8                                          Biotechnology                         1203.187275
+9                                      Building Products                           52.046379
+10                                       Capital Markets                           16.333659
+11                                             Chemicals                           62.327014
+12                        Commercial Services & Supplies                          195.224444
+13                              Communications Equipment                           63.199249
+14                            Construction & Engineering                           33.205221
+15                                Construction Materials                           48.064703
+16                                      Consumer Finance                            6.367662
+17                                Containers & Packaging                           33.008039
+18                                          Distributors                           57.599454
+19                         Diversified Consumer Services                           61.064818
+20                        Diversified Financial Services                           12.684005
+21                Diversified Telecommunication Services                           59.882148
+22                                    Electric Utilities                           60.281948
+23                                  Electrical Equipment                           70.998094
+24        Electronic Equipment, Instruments & Components                           98.065148
+25                           Energy Equipment & Services                           77.743745
+26                                         Entertainment                          314.209148
+27          Equity Real Estate Investment Trusts (REITs)                            9.638238
+28                              Food & Staples Retailing                           26.425542
+29                                         Food Products                           65.212296
+30                                         Gas Utilities                           42.480504
+31                      Health Care Equipment & Supplies                          614.003123
+32                      Health Care Providers & Services                           26.231026
+33                                Health Care Technology                           63.546646
+34                         Hotels, Restaurants & Leisure                          187.272555
+35                                    Household Durables                          120.490965
+36                                    Household Products                           63.784741
+37 Independent Power and Renewable Electricity Producers                           62.747255
+38                              Industrial Conglomerates                           25.568542
+39                                             Insurance                                  NA
+40                          Interactive Media & Services                           52.335630
+41                    Internet & Direct Marketing Retail                           58.938083
+42                                           IT Services                           87.529666
+43                                      Leisure Products                           54.346569
+44                        Life Sciences Tools & Services                           89.431679
+45                                             Machinery                           49.162834
+46                                                Marine                           36.684876
+47                                                 Media                          106.800464
+48                                       Metals & Mining                           61.327727
+49        Mortgage Real Estate Investment Trusts (REITs)                                  NA
+50                                       Multi-Utilities                           49.819356
+51                                      Multiline Retail                           45.566286
+52                           Oil, Gas & Consumable Fuels                           43.118113
+53                               Paper & Forest Products                           23.032164
+54                                     Personal Products                          265.297068
+55                                       Pharmaceuticals                         1337.164761
+56                                 Professional Services                           33.522085
+57                  Real Estate Management & Development                           24.149038
+58                                           Road & Rail                           15.201450
+59              Semiconductors & Semiconductor Equipment                           67.741689
+60                                              Software                           62.852945
+61                                      Specialty Retail                           78.138626
+62            Technology Hardware, Storage & Peripherals                           80.771660
+63                      Textiles, Apparel & Luxury Goods                           51.425195
+64                            Thrifts & Mortgage Finance                                  NA
+65                                               Tobacco                          106.996323
+66                      Trading Companies & Distributors                           51.038727
+67                         Transportation Infrastructure                                  NA
+68                                         Uncategorized                                  NA
+69                                       Water Utilities                          130.953398
+70                   Wireless Telecommunication Services                           99.197188
+> avg_carlf_i
+                                                Industry Std Dev of Cash Ratio LF
+1                                    Aerospace & Defense               3.67893588
+2                                Air Freight & Logistics               0.32956761
+3                                               Airlines               0.23958368
+4                                        Auto Components               1.15344734
+5                                            Automobiles               3.09438982
+6                                                  Banks                       NA
+7                                              Beverages               0.73267009
+8                                          Biotechnology               9.72087268
+9                                      Building Products               1.02357766
+10                                       Capital Markets               2.04606938
+11                                             Chemicals               1.42949771
+12                        Commercial Services & Supplies               4.59521040
+13                              Communications Equipment               1.53036415
+14                            Construction & Engineering               0.47448573
+15                                Construction Materials               1.99031597
+16                                      Consumer Finance               6.46637482
+17                                Containers & Packaging               0.28755585
+18                                          Distributors               0.12958487
+19                         Diversified Consumer Services               2.10373759
+20                        Diversified Financial Services               0.89875881
+21                Diversified Telecommunication Services               3.25451507
+22                                    Electric Utilities               0.15016921
+23                                  Electrical Equipment               0.98646494
+24        Electronic Equipment, Instruments & Components               3.23339857
+25                           Energy Equipment & Services               1.04840827
+26                                         Entertainment               2.10715504
+27          Equity Real Estate Investment Trusts (REITs)               0.73223894
+28                              Food & Staples Retailing               1.52589180
+29                                         Food Products               1.14306546
+30                                         Gas Utilities               0.08082614
+31                      Health Care Equipment & Supplies               2.78337312
+32                      Health Care Providers & Services               1.65742811
+33                                Health Care Technology               2.20881236
+34                         Hotels, Restaurants & Leisure               0.81435502
+35                                    Household Durables               0.80452672
+36                                    Household Products               0.37625385
+37 Independent Power and Renewable Electricity Producers               0.22934513
+38                              Industrial Conglomerates               0.88663973
+39                                             Insurance               0.65855430
+40                          Interactive Media & Services               1.88488490
+41                    Internet & Direct Marketing Retail               1.08760304
+42                                           IT Services               0.93503674
+43                                      Leisure Products               1.24810017
+44                        Life Sciences Tools & Services               3.22495196
+45                                             Machinery               1.05299887
+46                                                Marine               1.57779217
+47                                                 Media               6.36844941
+48                                       Metals & Mining               6.47057063
+49        Mortgage Real Estate Investment Trusts (REITs)                       NA
+50                                       Multi-Utilities               0.03995203
+51                                      Multiline Retail               0.08404105
+52                           Oil, Gas & Consumable Fuels              15.88656474
+53                               Paper & Forest Products               0.45936614
+54                                     Personal Products               2.46458410
+55                                       Pharmaceuticals              14.04140323
+56                                 Professional Services               2.90331118
+57                  Real Estate Management & Development               3.99638712
+58                                           Road & Rail               0.49534611
+59              Semiconductors & Semiconductor Equipment               3.01952594
+60                                              Software               1.45043909
+61                                      Specialty Retail               0.50102175
+62            Technology Hardware, Storage & Peripherals               1.50295064
+63                      Textiles, Apparel & Luxury Goods               0.65694854
+64                            Thrifts & Mortgage Finance                       NA
+65                                               Tobacco               2.76622481
+66                      Trading Companies & Distributors               0.36164654
+67                         Transportation Infrastructure               1.37932548
+68                                         Uncategorized             171.64822031
+69                                       Water Utilities               2.96113650
+70                   Wireless Telecommunication Services               0.35076389
+> avg_qrlf_i
+                                                Industry Std Dev of Quick Ratio LF
+1                                    Aerospace & Defense                 3.8706924
+2                                Air Freight & Logistics                 0.5689247
+3                                               Airlines                 0.2252376
+4                                        Auto Components                 1.2085973
+5                                            Automobiles                 2.9887232
+6                                                  Banks                        NA
+7                                              Beverages                 0.9466285
+8                                          Biotechnology                10.0691829
+9                                      Building Products                 1.2401498
+10                                       Capital Markets                 2.1391484
+11                                             Chemicals                 1.4866749
+12                        Commercial Services & Supplies                 4.5499105
+13                              Communications Equipment                 1.5661288
+14                            Construction & Engineering                 0.5397500
+15                                Construction Materials                 2.3440387
+16                                      Consumer Finance                 6.2990486
+17                                Containers & Packaging                 0.5405548
+18                                          Distributors                 0.3777511
+19                         Diversified Consumer Services                 2.1316867
+20                        Diversified Financial Services                 0.9353064
+21                Diversified Telecommunication Services                 3.2015778
+22                                    Electric Utilities                 0.2801809
+23                                  Electrical Equipment                 1.2084071
+24        Electronic Equipment, Instruments & Components                 3.2184363
+25                           Energy Equipment & Services                 1.1847859
+26                                         Entertainment                 2.1357722
+27          Equity Real Estate Investment Trusts (REITs)                 0.6723296
+28                              Food & Staples Retailing                 2.0980348
+29                                         Food Products                 1.2321289
+30                                         Gas Utilities                 0.2257469
+31                      Health Care Equipment & Supplies                 2.8852474
+32                      Health Care Providers & Services                 1.7478618
+33                                Health Care Technology                 2.3242131
+34                         Hotels, Restaurants & Leisure                 0.9044603
+35                                    Household Durables                 1.1716231
+36                                    Household Products                 0.7791618
+37 Independent Power and Renewable Electricity Producers                 0.2322213
+38                              Industrial Conglomerates                 1.1862166
+39                                             Insurance                 0.7852710
+40                          Interactive Media & Services                 1.9358981
+41                    Internet & Direct Marketing Retail                 1.1140519
+42                                           IT Services                 1.0562501
+43                                      Leisure Products                 1.4552629
+44                        Life Sciences Tools & Services                 3.2172688
+45                                             Machinery                 1.1189192
+46                                                Marine                 1.5532543
+47                                                 Media                 6.3156559
+48                                       Metals & Mining                 6.3728300
+49        Mortgage Real Estate Investment Trusts (REITs)                        NA
+50                                       Multi-Utilities                 0.1996729
+51                                      Multiline Retail                 0.0948849
+52                           Oil, Gas & Consumable Fuels                15.8633646
+53                               Paper & Forest Products                 0.4596340
+54                                     Personal Products                 2.5181345
+55                                       Pharmaceuticals                14.7943378
+56                                 Professional Services                 2.8510477
+57                  Real Estate Management & Development                 3.9861424
+58                                           Road & Rail                 0.5236137
+59              Semiconductors & Semiconductor Equipment                 3.1337623
+60                                              Software                 1.5993613
+61                                      Specialty Retail                 0.7633909
+62            Technology Hardware, Storage & Peripherals                 1.4759819
+63                      Textiles, Apparel & Luxury Goods                 0.7878117
+64                            Thrifts & Mortgage Finance                        NA
+65                                               Tobacco                 2.7458592
+66                      Trading Companies & Distributors                 0.5199499
+67                         Transportation Infrastructure                 1.2611226
+68                                         Uncategorized               171.6449691
+69                                       Water Utilities                 4.0396451
+70                   Wireless Telecommunication Services                 0.5735041
+> avg_curlf_i
+                                                Industry Std Dev of Curr Ratio LF
+1                                    Aerospace & Defense                167.70169
+2                                Air Freight & Logistics                252.91273
+3                                               Airlines                 53.84174
+4                                        Auto Components                 82.64729
+5                                            Automobiles                173.53194
+6                                                  Banks                 54.73846
+7                                              Beverages                 85.74573
+8                                          Biotechnology                442.75256
+9                                      Building Products                 90.95153
+10                                       Capital Markets                192.96090
+11                                             Chemicals                197.97713
+12                        Commercial Services & Supplies                196.35283
+13                              Communications Equipment                159.60194
+14                            Construction & Engineering                 64.97074
+15                                Construction Materials                293.99975
+16                                      Consumer Finance               4675.50435
+17                                Containers & Packaging                222.77628
+18                                          Distributors                 36.00022
+19                         Diversified Consumer Services                 97.71914
+20                        Diversified Financial Services                197.14460
+21                Diversified Telecommunication Services                155.63806
+22                                    Electric Utilities                 88.89593
+23                                  Electrical Equipment                748.63375
+24        Electronic Equipment, Instruments & Components                 60.84625
+25                           Energy Equipment & Services                233.17049
+26                                         Entertainment                136.24812
+27          Equity Real Estate Investment Trusts (REITs)                158.16045
+28                              Food & Staples Retailing                128.18265
+29                                         Food Products                195.94691
+30                                         Gas Utilities                 45.04682
+31                      Health Care Equipment & Supplies                170.98053
+32                      Health Care Providers & Services                184.47529
+33                                Health Care Technology                 81.78639
+34                         Hotels, Restaurants & Leisure                424.97784
+35                                    Household Durables                155.27134
+36                                    Household Products               1168.70406
+37 Independent Power and Renewable Electricity Producers                115.44244
+38                              Industrial Conglomerates                109.24953
+39                                             Insurance                 62.43878
+40                          Interactive Media & Services                 95.71355
+41                    Internet & Direct Marketing Retail                 93.42377
+42                                           IT Services                225.82621
+43                                      Leisure Products                934.28408
+44                        Life Sciences Tools & Services                 86.56739
+45                                             Machinery                 88.02940
+46                                                Marine                150.68051
+47                                                 Media                147.68745
+48                                       Metals & Mining                135.50388
+49        Mortgage Real Estate Investment Trusts (REITs)                304.95314
+50                                       Multi-Utilities                 43.46952
+51                                      Multiline Retail                158.58154
+52                           Oil, Gas & Consumable Fuels                231.28533
+53                               Paper & Forest Products                 72.38347
+54                                     Personal Products                 58.73858
+55                                       Pharmaceuticals                498.25674
+56                                 Professional Services               1167.26437
+57                  Real Estate Management & Development                100.13361
+58                                           Road & Rail                544.72672
+59              Semiconductors & Semiconductor Equipment                418.49898
+60                                              Software                167.87214
+61                                      Specialty Retail               9346.58209
+62            Technology Hardware, Storage & Peripherals                320.08477
+63                      Textiles, Apparel & Luxury Goods                241.31649
+64                            Thrifts & Mortgage Finance                366.97804
+65                                               Tobacco                608.99854
+66                      Trading Companies & Distributors                118.16887
+67                         Transportation Infrastructure                 52.27117
+68                                         Uncategorized                801.68858
+69                                       Water Utilities                104.04069
+70                   Wireless Telecommunication Services                 88.22848

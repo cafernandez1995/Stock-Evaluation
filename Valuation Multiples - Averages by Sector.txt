@@ -1,0 +1,69 @@
+                   Sector Average Price
+1  Communication Services      78.68848
+2  Consumer Discretionary      76.75550
+3        Consumer Staples      72.44509
+4                  Energy      16.13460
+5              Financials      46.18896
+6             Health Care      42.27054
+7             Industrials      59.06814
+8  Information Technology      58.00315
+9               Materials      53.38715
+10            Real Estate      58.03116
+11          Uncategorized      10.80051
+12              Utilities      62.81082
+
+                   Sector Average P/FCF LF
+1  Communication Services         42.26154
+2  Consumer Discretionary         37.79854
+3        Consumer Staples         37.67236
+4                  Energy         57.31370
+5              Financials         17.82577
+6             Health Care       9050.89117
+7             Industrials         47.69061
+8  Information Technology         53.49710
+9               Materials         67.39100
+10            Real Estate        175.00416
+11          Uncategorized              NaN
+12              Utilities         92.00677
+
+                   Sector Average P/B LF
+1  Communication Services       4.141936
+2  Consumer Discretionary       9.930125
+3        Consumer Staples      10.910478
+4                  Energy       1.602217
+5              Financials       2.645814
+6             Health Care       8.261939
+7             Industrials       5.141580
+8  Information Technology       7.378268
+9               Materials       3.370589
+10            Real Estate       2.978526
+11          Uncategorized       1.487113
+12              Utilities       2.616420
+
+                   Sector Average P/S LF
+1  Communication Services      23.188276
+2  Consumer Discretionary       5.200978
+3        Consumer Staples       2.485456
+4                  Energy       2.152549
+5              Financials       3.115031
+6             Health Care     254.401674
+7             Industrials       3.323599
+8  Information Technology      11.337432
+9               Materials       5.132002
+10            Real Estate       6.942778
+11          Uncategorized   30941.941410
+12              Utilities       9.738771
+
+                   Sector Average P/E LF
+1  Communication Services       59.63642
+2  Consumer Discretionary       42.66218
+3        Consumer Staples       31.80271
+4                  Energy    10612.73357
+5              Financials       24.86155
+6             Health Care       73.24025
+7             Industrials       36.35129
+8  Information Technology      153.93047
+9               Materials       58.74416
+10            Real Estate       78.54924
+11          Uncategorized      113.84984
+12              Utilities       24.35362

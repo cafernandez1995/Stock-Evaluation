@@ -1,0 +1,251 @@
+                   Sector Mean Price
+1  Communication Services   77.54304
+2  Consumer Discretionary   82.62203
+3        Consumer Staples   71.36811
+4                  Energy   16.47408
+5              Financials   45.96749
+6             Health Care   42.71771
+7             Industrials   57.48606
+8  Information Technology   58.58256
+9               Materials   52.33497
+10            Real Estate   55.56417
+11          Uncategorized   10.81096
+12              Utilities   63.72338
+
+                   Sector Mean ROIC LF
+1  Communication Services   -0.3812878
+2  Consumer Discretionary    2.6927638
+3        Consumer Staples   -4.8358066
+4                  Energy  -10.9630924
+5              Financials    6.1915253
+6             Health Care  -64.2467075
+7             Industrials    4.5048316
+8  Information Technology   -4.0863622
+9               Materials    3.2974192
+10            Real Estate    2.8476139
+11          Uncategorized    0.3376988
+12              Utilities    5.9648753
+
+                   Sector Mean ROE LF
+1  Communication Services    5.792563
+2  Consumer Discretionary    7.249587
+3        Consumer Staples    5.764842
+4                  Energy   -6.339076
+5              Financials   12.592939
+6             Health Care  -62.954560
+7             Industrials    8.858885
+8  Information Technology   -2.254051
+9               Materials    6.100515
+10            Real Estate    7.308240
+11          Uncategorized  -12.530277
+12              Utilities    7.510183
+
+                   Sector Mean Free Cash Flow Margin
+1  Communication Services                  -7.861711
+2  Consumer Discretionary                 -35.732515
+3        Consumer Staples                 -15.358016
+4                  Energy                 -12.746542
+5              Financials                  22.816065
+6             Health Care               -1642.323415
+7             Industrials                 -81.369206
+8  Information Technology                -102.077241
+9               Materials                 -48.509170
+10            Real Estate                 -32.015299
+11          Uncategorized                 -69.878870
+12              Utilities                 -41.752463
+
+                   Sector Mean T12M EBITDA Mrgn LF
+1  Communication Services               -0.8597788
+2  Consumer Discretionary              -52.3756422
+3        Consumer Staples               -7.1859810
+4                  Energy               13.8516454
+5              Financials               37.1291243
+6             Health Care            -3664.2893404
+7             Industrials              -30.2154279
+8  Information Technology              -49.1555925
+9               Materials               10.7624653
+10            Real Estate               47.9315000
+11          Uncategorized               11.0636196
+12              Utilities                8.7163095
+
+                   Sector Mean Net Mrgn 5Yr Avg LF
+1  Communication Services                 1.762159
+2  Consumer Discretionary              -525.810300
+3        Consumer Staples               -15.811202
+4                  Energy               -24.078759
+5              Financials                18.285618
+6             Health Care             -2622.055351
+7             Industrials               -41.368900
+8  Information Technology              -128.475924
+9               Materials                -5.719589
+10            Real Estate                19.032157
+11          Uncategorized                      NaN
+12              Utilities               -49.147399
+
+                   Sector  Mean OPM LF
+1  Communication Services   -34.087629
+2  Consumer Discretionary  -257.004767
+3        Consumer Staples   -16.739364
+4                  Energy   -42.505036
+5              Financials    24.202748
+6             Health Care -4032.902178
+7             Industrials   -95.540097
+8  Information Technology  -216.207505
+9               Materials   -24.647997
+10            Real Estate    22.451953
+11          Uncategorized -1174.044744
+12              Utilities    -7.388919
+
+                   Sector Mean GM LF
+1  Communication Services  51.877875
+2  Consumer Discretionary -22.064915
+3        Consumer Staples  34.395970
+4                  Energy  26.234961
+5              Financials  59.512094
+6             Health Care   2.603001
+7             Industrials  29.014562
+8  Information Technology  49.067362
+9               Materials  24.329672
+10            Real Estate  41.092208
+11          Uncategorized  39.122290
+12              Utilities  61.183175
+
+                   Sector Mean Interest Coverage Ratio
+1  Communication Services                     0.000000
+2  Consumer Discretionary                     0.000000
+3        Consumer Staples                     0.000000
+4                  Energy                     0.000000
+5              Financials                     0.000000
+6             Health Care                     0.000000
+7             Industrials                     0.000000
+8  Information Technology                     0.000000
+9               Materials                     0.000000
+10            Real Estate                     4.797115
+11          Uncategorized                     0.000000
+12              Utilities                     0.000000
+
+                   Sector Mean Debt/Equity LF
+1  Communication Services           107.75098
+2  Consumer Discretionary           393.40589
+3        Consumer Staples           178.31583
+4                  Energy           108.67508
+5              Financials           154.68417
+6             Health Care            91.54654
+7             Industrials           146.31694
+8  Information Technology            92.80951
+9               Materials           131.03553
+10            Real Estate           145.55299
+11          Uncategorized           179.35273
+12              Utilities           149.05875
+
+                   Sector Mean Debt/Assets LF
+1  Communication Services           33.067255
+2  Consumer Discretionary           42.491083
+3        Consumer Staples           37.810944
+4                  Energy           36.778167
+5              Financials           16.155728
+6             Health Care           23.444055
+7             Industrials           32.483755
+8  Information Technology           24.118330
+9               Materials           34.089473
+10            Real Estate           48.832100
+11          Uncategorized            7.703135
+12              Utilities           39.979718
+
+                   Sector Mean Modified Working Capital Turnover LF
+1  Communication Services                                 16.743097
+2  Consumer Discretionary                                 26.028678
+3        Consumer Staples                                 19.512464
+4                  Energy                                 17.459655
+5              Financials                                 15.130628
+6             Health Care                                 10.563997
+7             Industrials                                  9.839949
+8  Information Technology                                 10.428568
+9               Materials                                  6.632711
+10            Real Estate                                 15.792999
+11          Uncategorized                                  6.764906
+12              Utilities                                 14.133566
+
+                   Sector Mean Inv Turnover LF
+1  Communication Services            46.308352
+2  Consumer Discretionary            26.483031
+3        Consumer Staples             6.939860
+4                  Energy            38.331394
+5              Financials            20.276081
+6             Health Care            15.852750
+7             Industrials            25.702893
+8  Information Technology            20.726643
+9               Materials             6.386383
+10            Real Estate            14.775219
+11          Uncategorized             3.103996
+12              Utilities            12.682503
+
+                   Sector Mean A/R Trnovr LF
+1  Communication Services          10.835981
+2  Consumer Discretionary          66.886142
+3        Consumer Staples          35.199102
+4                  Energy          12.190935
+5              Financials          19.774187
+6             Health Care          34.401351
+7             Industrials          11.425829
+8  Information Technology           9.729080
+9               Materials          10.097827
+10            Real Estate          20.598643
+11          Uncategorized          54.407773
+12              Utilities           8.463931
+
+                   Sector Mean Cash Conversion Cycle LF
+1  Communication Services                     26.708636
+2  Consumer Discretionary                    111.863319
+3        Consumer Staples                     64.355964
+4                  Energy                     40.493177
+5              Financials                     92.558363
+6             Health Care                     58.346633
+7             Industrials                     80.801816
+8  Information Technology                     96.256662
+9               Materials                     82.822397
+10            Real Estate                     38.386565
+11          Uncategorized                    118.515549
+12              Utilities                     -3.873283
+
+                   Sector Mean Cash Ratio LF
+1  Communication Services          1.5833516
+2  Consumer Discretionary          0.6393995
+3        Consumer Staples          0.6973431
+4                  Energy          1.5095328
+5              Financials          1.3447224
+6             Health Care          5.1530812
+7             Industrials          0.7588995
+8  Information Technology          1.4724713
+9               Materials          0.9056854
+10            Real Estate          1.3117679
+11          Uncategorized         33.6722925
+12              Utilities          0.3968953
+
+                   Sector Mean Quick Ratio LF
+1  Communication Services           2.1016310
+2  Consumer Discretionary           0.9920868
+3        Consumer Staples           1.1352245
+4                  Energy           2.0791803
+5              Financials           1.7812033
+6             Health Care           5.5457978
+7             Industrials           1.4212025
+8  Information Technology           2.0323501
+9               Materials           1.5630988
+10            Real Estate           1.6646883
+11          Uncategorized          33.6906849
+12              Utilities           0.7603079
+
+                   Sector Mean Curr Ratio LF
+1  Communication Services          107.75098
+2  Consumer Discretionary          393.40589
+3        Consumer Staples          178.31583
+4                  Energy          108.67508
+5              Financials          154.68417
+6             Health Care           91.54654
+7             Industrials          146.31694
+8  Information Technology           92.80951
+9               Materials          131.03553
+10            Real Estate          145.55299
+11          Uncategorized          179.35273
+12              Utilities          149.05875

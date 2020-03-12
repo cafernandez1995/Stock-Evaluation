@@ -1,0 +1,251 @@
+                   Sector Std Dev of Price
+1  Communication Services       222.042201
+2  Consumer Discretionary       302.657712
+3        Consumer Staples       238.854866
+4                  Energy        23.102710
+5              Financials        80.962631
+6             Health Care        79.007008
+7             Industrials        73.968894
+8  Information Technology        70.967938
+9               Materials        77.684593
+10            Real Estate        78.116631
+11          Uncategorized         4.070976
+12              Utilities        44.420027
+
+                   Sector Std Dev of ROIC LF
+1  Communication Services          27.256834
+2  Consumer Discretionary          39.453146
+3        Consumer Staples          90.205855
+4                  Energy         131.764899
+5              Financials          26.260069
+6             Health Care         167.618181
+7             Industrials          24.318962
+8  Information Technology          57.274187
+9               Materials          21.232026
+10            Real Estate           7.022105
+11          Uncategorized           8.524471
+12              Utilities          12.150919
+
+                   Sector Std Dev of ROE LF
+1  Communication Services          42.70072
+2  Consumer Discretionary          51.63891
+3        Consumer Staples          46.56977
+4                  Energy          30.04789
+5              Financials          31.85714
+6             Health Care         124.23127
+7             Industrials          48.95871
+8  Information Technology          59.86601
+9               Materials          32.63565
+10            Real Estate          22.01050
+11          Uncategorized          66.56933
+12              Utilities          11.52152
+
+                   Sector Std Dev of Free Cash Flow Margin
+1  Communication Services                        101.58164
+2  Consumer Discretionary                        648.48802
+3        Consumer Staples                        115.39815
+4                  Energy                         86.55335
+5              Financials                         81.41841
+6             Health Care                      12588.63706
+7             Industrials                       1404.11914
+8  Information Technology                       1456.97715
+9               Materials                        650.68585
+10            Real Estate                         94.61892
+11          Uncategorized                        617.44418
+12              Utilities                        340.81140
+
+                   Sector Std Dev of T12M EBITDA Mrgn LF
+1  Communication Services                      126.83099
+2  Consumer Discretionary                     1217.23741
+3        Consumer Staples                      134.21021
+4                  Energy                       86.61164
+5              Financials                       31.46042
+6             Health Care                    51156.24447
+7             Industrials                      783.93241
+8  Information Technology                      990.74514
+9               Materials                       38.02932
+10            Real Estate                       29.06076
+11          Uncategorized                       13.32682
+12              Utilities                      278.01848
+
+                   Sector Std Dev of Net Mrgn 5Yr Avg LF
+1  Communication Services                      141.33717
+2  Consumer Discretionary                     9598.42908
+3        Consumer Staples                      146.11873
+4                  Energy                      129.19805
+5              Financials                       40.97488
+6             Health Care                    16224.66074
+7             Industrials                      835.33272
+8  Information Technology                     2332.34630
+9               Materials                       88.43492
+10            Real Estate                       35.32973
+11          Uncategorized                             NA
+12              Utilities                      624.08190
+
+                   Sector Std Dev of OPM LF
+1  Communication Services         307.20330
+2  Consumer Discretionary        5488.75677
+3        Consumer Staples         164.35549
+4                  Energy         261.83601
+5              Financials          95.97593
+6             Health Care       40276.39285
+7             Industrials        1663.68390
+8  Information Technology        4593.96317
+9               Materials         339.12760
+10            Real Estate          31.74891
+11          Uncategorized        2973.19409
+12              Utilities         253.70336
+
+                   Sector Std Dev of GM LF
+1  Communication Services         29.41383
+2  Consumer Discretionary       1405.62004
+3        Consumer Staples         20.93529
+4                  Energy         24.37474
+5              Financials         27.31637
+6             Health Care       1315.86239
+7             Industrials         23.77261
+8  Information Technology         31.03894
+9               Materials         14.52360
+10            Real Estate         27.49642
+11          Uncategorized         22.94465
+12              Utilities         17.56041
+
+                   Sector Std Dev of Interest Coverage Ratio
+1  Communication Services                            0.00000
+2  Consumer Discretionary                            0.00000
+3        Consumer Staples                            0.00000
+4                  Energy                            0.00000
+5              Financials                            0.00000
+6             Health Care                            0.00000
+7             Industrials                            0.00000
+8  Information Technology                            0.00000
+9               Materials                            0.00000
+10            Real Estate                           41.26145
+11          Uncategorized                            0.00000
+12              Utilities                            0.00000
+
+                   Sector Std Dev of Debt/Equity LF
+1  Communication Services                 138.01465
+2  Consumer Discretionary                4271.51311
+3        Consumer Staples                 430.34575
+4                  Energy                 231.31090
+5              Financials                1103.30111
+6             Health Care                 377.23591
+7             Industrials                 450.91813
+8  Information Technology                 249.46277
+9               Materials                 193.22955
+10            Real Estate                 151.57416
+11          Uncategorized                 801.68858
+12              Utilities                  89.60844
+
+                   Sector Std Dev of Debt/Assets LF
+1  Communication Services                  26.16555
+2  Consumer Discretionary                  30.16514
+3        Consumer Staples                  60.71041
+4                  Energy                  53.98961
+5              Financials                  21.59484
+6             Health Care                  34.88046
+7             Industrials                  32.67133
+8  Information Technology                  19.50728
+9               Materials                  22.87165
+10            Real Estate                  20.46257
+11          Uncategorized                  23.40749
+12              Utilities                  20.17741
+
+                   Sector Std Dev of Modified Working Capital Turnover LF
+1  Communication Services                                       29.095997
+2  Consumer Discretionary                                       87.428733
+3        Consumer Staples                                       30.717380
+4                  Energy                                       35.576213
+5              Financials                                       25.310354
+6             Health Care                                       66.100497
+7             Industrials                                       13.488553
+8  Information Technology                                       41.525348
+9               Materials                                        6.983763
+10            Real Estate                                       10.583414
+11          Uncategorized                                        3.964487
+12              Utilities                                        8.457911
+
+                   Sector Std Dev of Inv Turnover LF
+1  Communication Services                  66.176236
+2  Consumer Discretionary                  74.790213
+3        Consumer Staples                   5.074466
+4                  Energy                 112.498428
+5              Financials                  19.814194
+6             Health Care                 137.947366
+7             Industrials                  76.752808
+8  Information Technology                 152.671587
+9               Materials                   7.438334
+10            Real Estate                   8.518398
+11          Uncategorized                         NA
+12              Utilities                  33.041000
+
+                   Sector Std Dev of A/R Trnovr LF
+1  Communication Services                10.904713
+2  Consumer Discretionary               270.830144
+3        Consumer Staples                95.875348
+4                  Energy                16.381320
+5              Financials                38.232803
+6             Health Care               209.165060
+7             Industrials                23.946688
+8  Information Technology                20.848128
+9               Materials                11.629602
+10            Real Estate                20.587785
+11          Uncategorized                40.750948
+12              Utilities                 4.084757
+
+                   Sector Std Dev of Cash Conversion Cycle LF
+1  Communication Services                           169.47189
+2  Consumer Discretionary                           755.15267
+3        Consumer Staples                           126.26203
+4                  Energy                            73.19062
+5              Financials                            92.40225
+6             Health Care                           922.39149
+7             Industrials                           112.75557
+8  Information Technology                            83.95230
+9               Materials                            59.07613
+10            Real Estate                            20.41121
+11          Uncategorized                                  NA
+12              Utilities                            61.53467
+
+                   Sector Std Dev of Cash Ratio LF
+1  Communication Services                 4.387887
+2  Consumer Discretionary                 1.090954
+3        Consumer Staples                 1.533778
+4                  Energy                13.495725
+5              Financials                 3.015779
+6             Health Care                 9.294624
+7             Industrials                 2.255726
+8  Information Technology                 2.218441
+9               Materials                 3.470757
+10            Real Estate                 3.054266
+11          Uncategorized               171.648220
+12              Utilities                 1.295691
+
+                   Sector Std Dev of Quick Ratio LF
+1  Communication Services                  4.369538
+2  Consumer Discretionary                  1.221884
+3        Consumer Staples                  1.716053
+4                  Energy                 13.474175
+5              Financials                  3.026813
+6             Health Care                  9.618562
+7             Industrials                  2.297319
+8  Information Technology                  2.313430
+9               Materials                  3.453719
+10            Real Estate                  3.025008
+11          Uncategorized                171.644969
+12              Utilities                  1.723134
+
+                   Sector Std Dev of Curr Ratio LF
+1  Communication Services                138.01465
+2  Consumer Discretionary               4271.51311
+3        Consumer Staples                430.34575
+4                  Energy                231.31090
+5              Financials               1103.30111
+6             Health Care                377.23591
+7             Industrials                450.91813
+8  Information Technology                249.46277
+9               Materials                193.22955
+10            Real Estate                151.57416
+11          Uncategorized                801.68858
+12              Utilities                 89.60844
